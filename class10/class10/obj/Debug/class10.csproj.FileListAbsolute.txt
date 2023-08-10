@@ -1,0 +1,10 @@
+E:\learn\یادگیری\نرم افزار\class c#\intheclass\class10\class10\bin\Debug\class10.exe.config
+E:\learn\یادگیری\نرم افزار\class c#\intheclass\class10\class10\bin\Debug\class10.exe
+E:\learn\یادگیری\نرم افزار\class c#\intheclass\class10\class10\bin\Debug\class10.pdb
+E:\learn\یادگیری\نرم افزار\class c#\intheclass\class10\class10\obj\Debug\class10.csprojAssemblyReference.cache
+E:\learn\یادگیری\نرم افزار\class c#\intheclass\class10\class10\obj\Debug\class10.Form1.resources
+E:\learn\یادگیری\نرم افزار\class c#\intheclass\class10\class10\obj\Debug\class10.Properties.Resources.resources
+E:\learn\یادگیری\نرم افزار\class c#\intheclass\class10\class10\obj\Debug\class10.csproj.GenerateResource.cache
+E:\learn\یادگیری\نرم افزار\class c#\intheclass\class10\class10\obj\Debug\class10.csproj.CoreCompileInputs.cache
+E:\learn\یادگیری\نرم افزار\class c#\intheclass\class10\class10\obj\Debug\class10.exe
+E:\learn\یادگیری\نرم افزار\class c#\intheclass\class10\class10\obj\Debug\class10.pdb
